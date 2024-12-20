@@ -1,0 +1,16 @@
+{
+  "name": "get_weights",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.24",
+    "express": "^4.21.1"
+  }
+}
